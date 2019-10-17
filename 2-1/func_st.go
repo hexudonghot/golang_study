@@ -4,8 +4,8 @@ import "fmt"
 
 func main() {
 	/* 定义局部变量 */
-	var a int = 100
-	var b int = 200
+	var a = 100
+	var b = 200
 	var ret int
 
 	/* 调用函数并返回最大值 */
